@@ -1,3 +1,23 @@
+/*async function funName(params) {
+    return"Hello"
+    
+}
+arrowfunName = async() =>{
+    return "Kec"
+}
+console.log(funName())
+console.log(arrowfunName())
+
+arraowArasu=async()=>
+{
+    setTimeout(()=>{
+        console.log("Arasu");
+    },3000);
+}
+arraowArasu()
+*/
+                                                                                                                                                                                                                                                                        
+
 async function liked() {
     return new promise( (like)=>{
         like(" liked Successfully")
